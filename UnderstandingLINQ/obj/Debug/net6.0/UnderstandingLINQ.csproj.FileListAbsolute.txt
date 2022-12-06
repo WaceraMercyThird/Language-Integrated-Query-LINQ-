@@ -1,0 +1,15 @@
+/Users/jpmac/RiderProjects/UnderstandingLINQ/UnderstandingLINQ/bin/Debug/net6.0/UnderstandingLINQ
+/Users/jpmac/RiderProjects/UnderstandingLINQ/UnderstandingLINQ/bin/Debug/net6.0/UnderstandingLINQ.deps.json
+/Users/jpmac/RiderProjects/UnderstandingLINQ/UnderstandingLINQ/bin/Debug/net6.0/UnderstandingLINQ.runtimeconfig.json
+/Users/jpmac/RiderProjects/UnderstandingLINQ/UnderstandingLINQ/bin/Debug/net6.0/UnderstandingLINQ.dll
+/Users/jpmac/RiderProjects/UnderstandingLINQ/UnderstandingLINQ/bin/Debug/net6.0/UnderstandingLINQ.pdb
+/Users/jpmac/RiderProjects/UnderstandingLINQ/UnderstandingLINQ/obj/Debug/net6.0/UnderstandingLINQ.csproj.AssemblyReference.cache
+/Users/jpmac/RiderProjects/UnderstandingLINQ/UnderstandingLINQ/obj/Debug/net6.0/UnderstandingLINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jpmac/RiderProjects/UnderstandingLINQ/UnderstandingLINQ/obj/Debug/net6.0/UnderstandingLINQ.AssemblyInfoInputs.cache
+/Users/jpmac/RiderProjects/UnderstandingLINQ/UnderstandingLINQ/obj/Debug/net6.0/UnderstandingLINQ.AssemblyInfo.cs
+/Users/jpmac/RiderProjects/UnderstandingLINQ/UnderstandingLINQ/obj/Debug/net6.0/UnderstandingLINQ.csproj.CoreCompileInputs.cache
+/Users/jpmac/RiderProjects/UnderstandingLINQ/UnderstandingLINQ/obj/Debug/net6.0/UnderstandingLINQ.dll
+/Users/jpmac/RiderProjects/UnderstandingLINQ/UnderstandingLINQ/obj/Debug/net6.0/refint/UnderstandingLINQ.dll
+/Users/jpmac/RiderProjects/UnderstandingLINQ/UnderstandingLINQ/obj/Debug/net6.0/UnderstandingLINQ.pdb
+/Users/jpmac/RiderProjects/UnderstandingLINQ/UnderstandingLINQ/obj/Debug/net6.0/UnderstandingLINQ.genruntimeconfig.cache
+/Users/jpmac/RiderProjects/UnderstandingLINQ/UnderstandingLINQ/obj/Debug/net6.0/ref/UnderstandingLINQ.dll
